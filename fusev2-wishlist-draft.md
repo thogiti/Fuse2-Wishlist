@@ -20,7 +20,7 @@ Two potential candidates are:
 Built on .Net and c#
 
     - Plugin Architecture
-      > ```It can dynamically load plugins. It is as simple as dropping dll file into the plugin folder. No need to fork and compile the node yourself. Build once and share with others. No worries about merging multiple forks.```
+      It can dynamically load plugins. It is as simple as dropping dll file into the plugin folder. No need to fork and compile the node yourself. Build once and share with others. No worries about merging multiple forks.
     - MEV Support
       It has 1st party plugin for MEV compliant with flashbotsmev spec. They will keep supporting future MEV specs directly.
     - Account Abstraction EIP-4337
