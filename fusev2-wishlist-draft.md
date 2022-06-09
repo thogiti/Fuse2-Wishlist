@@ -5,6 +5,23 @@ The goal of this document is to have a list of things we wish to do for next fiv
 Approximate Timeline: 3 months
 
 ## Core Ideas & Ambitious Technology Roadmap
+### Follow Ethereum roadmap as close as possible
+### Infrastructure run by the users
+### Credible promise of low gas cost
+### Use of smart contract wallets (SCW)/ digital identities/ DID
+### Circles UBI & BrightID
+### Liquidity, Bridges, Fuseswap
+
+## Fuse Ecosystem Strategy
+### General Strategy
+### Infrastructure Strategy
+### Defi Strategy
+### DAO Strategy
+### NFT & Creative Strategy
+### GameFi and Metaverse Strategy
+### Zero Knowledge & Privacy Strategy
+### Developer Strategy
+### Community Strategy
 
 
 ## Replacement for openethereum
