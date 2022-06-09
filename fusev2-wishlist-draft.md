@@ -12,8 +12,8 @@ Approximate Timeline: 3 months
 We need to select a new provider to replace the deprecated openethereum position.
 
 Two potential candidates are:
-  Nethermind
-  Erigon (The new home of openethereum)
+  - Nethermind
+  - Erigon (The new home of openethereum)
 
 ### Benefits of Nethermind:
 
